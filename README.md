@@ -4,7 +4,7 @@
 
 - 🎨 [Color palette creator with built-in WCAG contrast checking](https://www.inclusivecolors.com/)
 
-- 📚 [A fast-paced word spelling web game](https://seanwilson.itch.io/wordoid)
+- 🕹️ [A fast-paced word spelling web game](https://seanwilson.itch.io/wordoid)
 
 <!--
 **seanw/seanw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
