@@ -2,7 +2,7 @@
 
 - 🤖 [Checkbot: Chrome extension that crawls your website checking it follows SEO/speed/security best practices](https://www.checkbot.io/)
 
-- 🎨 [InclusiveColors: Color palette creator with built-in WCAG contrast checking](https://www.inclusivecolors.com/)
+- 🎨 [InclusiveColors: Tailwind-style color palette creator with built-in WCAG/APCA contrast checking](https://www.inclusivecolors.com/)
 
 - 🕹️ [Wordoid: A fast-paced word spelling web game](https://seanwilson.itch.io/wordoid)
 
